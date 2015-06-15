@@ -1,0 +1,17 @@
+/* ADD YOUR STYLES HERE */
+.table-style {
+	width: 100%
+
+}
+
+.table-style tr {
+	border-bottom: 1px solid #C0C0C0;
+}
+
+.table-style th, td {
+	padding: 10px;
+}
+
+.table-style .last-row {
+	border-bottom: 0px solid #C0C0C0;
+}
