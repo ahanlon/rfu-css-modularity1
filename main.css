@@ -116,12 +116,13 @@
 	clear: right;
 }
 
-.block p, h2 {
-	padding-left: 60px;
+.object-content {
+	padding-left: 20px;
+	overflow: hidden;
 }
 
 .block-indent {
-	margin-left: 60px;
+	overflow: hidden;
 }
 
 
